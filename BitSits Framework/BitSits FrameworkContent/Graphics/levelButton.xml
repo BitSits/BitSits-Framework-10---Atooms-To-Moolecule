@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[Microsoft.Xna.Framework.Vector2]">
+    <!--Tutorial-->
+    140 77
+
+    <!--Ring-->
+    99 329
+
+    <!--Abs Zero-->
+    360 338
+
+    <!--Clear all-->
+    531 133
+
+    <!--Electro-->
+    595 379
+
+    <!--pH-->
+    844 381
+    
+    <!--clipboard-->
+    880 122
+    
+    <!--radio active-->
+    1160 351
+  </Asset>
+</XnaContent>

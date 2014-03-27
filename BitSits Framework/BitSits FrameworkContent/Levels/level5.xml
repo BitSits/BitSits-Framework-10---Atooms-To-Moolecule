@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelData">
+    <!--pH-->
+    <MaxAtoms>20</MaxAtoms>
+
+    <AtomProbability>0 52 12 12 12 12</AtomProbability>
+
+    <Entry>550 -250</Entry>
+
+    <BonusType>Hydrogen</BonusType>
+
+    <ContinuousBoundry>
+      0 -600
+      800 -600
+      800 570
+      0 570
+      0 -600
+    </ContinuousBoundry>
+
+    <EquipmentDetails>
+      <Item>
+        <EquipmentName>conicalFlask</EquipmentName>
+        <Position>550 140</Position>
+        <RotationInDeg>0</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+      <Item>
+        <EquipmentName>pHscale</EquipmentName>
+        <Position>150 200</Position>
+        <RotationInDeg>0</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+      <Item>
+        <EquipmentName>testTube</EquipmentName>
+        <Position>500 -300</Position>
+        <RotationInDeg>160</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+    </EquipmentDetails>
+  </Asset>
+</XnaContent>

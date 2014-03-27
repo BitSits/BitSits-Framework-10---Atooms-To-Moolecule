@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelData">
+    <!--Absolute Zero-->
+    <MaxAtoms>30</MaxAtoms>
+
+    <AtomProbability>0 20 20 20 20 20</AtomProbability>
+
+    <Entry>500 -200</Entry>
+
+    <BonusType>Ring</BonusType>
+
+    <ContinuousBoundry>
+      200 0
+      200 -600
+      800 -600
+      800 0
+      750 50
+    </ContinuousBoundry>
+    
+    <EquipmentDetails>
+      <Item>
+        <EquipmentName>thermometer</EquipmentName>
+        <Position>200 290</Position>
+        <RotationInDeg>0</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+      <Item>
+        <EquipmentName>beaker</EquipmentName>
+        <Position>400 310</Position>
+        <RotationInDeg>0</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+      <Item>
+        <EquipmentName>testTube</EquipmentName>
+        <Position>500 -250</Position>
+        <RotationInDeg>175</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+    </EquipmentDetails>
+  </Asset>
+</XnaContent>

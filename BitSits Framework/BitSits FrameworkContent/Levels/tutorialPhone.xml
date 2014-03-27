@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[string]">
+    <Item>Drag and Drop the 
+Atooms to make 
+Moolecule
+    </Item>
+    <Item>H2</Item>
+
+    <Item>  Yellow = Oxygen
+Double Tap on atoom
+to break bond
+    </Item>
+    <Item>H2O3</Item>
+
+    <Item>  Violet = Nitrogen
+Double Tap on atoom 
+to break bond
+    </Item>
+    <Item>H2N2O2</Item>
+
+    <Item> Red = Carbon
+Double Tap on atoom
+to break bond
+    </Item>
+    <Item>C3H2N2O</Item>
+
+    <Item> Element X -
+  bonds all ..
+Ok this is a tricky one
+    </Item>
+    <Item>CNX2</Item>
+
+    <!--Make some RINGS - the
+ring give you bonus on Atomic Value N2O4-->
+  </Asset>
+</XnaContent>

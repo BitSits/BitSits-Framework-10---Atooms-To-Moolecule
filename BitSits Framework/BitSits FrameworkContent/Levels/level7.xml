@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelData">
+    <!--RadioActive-->
+    <MaxAtoms>20</MaxAtoms>
+
+    <AtomProbability>0 20 20 20 20 20</AtomProbability>
+
+    <Entry>485 -200</Entry>
+
+    <BonusType>Ring</BonusType>
+
+    <ContinuousBoundry>
+      400 0
+      400 70
+      65 64
+      65 548
+      737 548
+      738 68
+      578 70
+      578 0
+    </ContinuousBoundry>
+
+    <EquipmentDetails>
+      <Item>
+        <EquipmentName>testTube</EquipmentName>
+        <Position>485 -150</Position>
+        <RotationInDeg>180</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+    </EquipmentDetails>
+  </Asset>
+</XnaContent>

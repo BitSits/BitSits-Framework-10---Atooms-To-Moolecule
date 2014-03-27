@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[string]">
+    <Item>Electrodes: Gives high volt shock.
+            Keep the Atooms away</Item>
+    <Item>Thermometer: a cute Kelvin scale</Item>
+    <Item>pH Scale: it can set acidity of Atooms</Item>
+    <Item>Funnel: it can filter down the Atooms</Item>
+    <Item>Test Tube: Hold few Atooms but very useful</Item>
+    <Item>Conical Flask: "broad base narrow neck" flask</Item>
+    <Item>Measuring Cylinder: measure cubic centimeters of Atooms</Item>
+    <Item>Beaker: it can hold tons of Atooms</Item>
+    <Item>Clipboard: reaction note pad</Item>
+  </Asset>
+</XnaContent>

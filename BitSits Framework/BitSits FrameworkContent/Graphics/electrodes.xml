@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.EquipmentData">
+    <TopLeftVertex>100 60</TopLeftVertex>
+
+    <Origin>400 164</Origin>
+
+    <RotationButtonPosition>655 131</RotationButtonPosition>
+
+    <ClampData>
+      <ClampEnabled>false</ClampEnabled>
+      <RightClampPositionX>0</RightClampPositionX>
+      <RotationInDeg>0</RotationInDeg>
+    </ClampData>
+
+    <ContinuousEdges />
+
+    <Boxes>
+      <Item>
+        <Width>28</Width>
+        <Height>396</Height>
+        <RotationInDeg>0</RotationInDeg>
+        <Position>144 327</Position>
+      </Item>
+      <Item>
+        <Width>28</Width>
+        <Height>396</Height>
+        <RotationInDeg>0</RotationInDeg>
+        <Position>655 327</Position>
+      </Item>
+    </Boxes>
+
+    <Circles />
+  </Asset>
+</XnaContent>

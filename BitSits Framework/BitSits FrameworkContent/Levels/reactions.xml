@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[string]">
+    <Item>H2</Item>
+    <Item>O2</Item>
+    <Item>H2O</Item>
+    <Item></Item>
+
+    <Item>CO2</Item>
+    <Item>HNO</Item>
+    <Item>CHN</Item>
+    <Item>H3N</Item>
+
+    <Item>CX4</Item>
+    <Item>NX</Item>
+    <Item>C2N4</Item>
+    <Item>X2</Item>
+    
+    <Item>N2O4</Item>
+    <Item>C2H6</Item>
+    <Item>C4O2</Item>
+    <Item>N2</Item>
+  </Asset>
+</XnaContent>

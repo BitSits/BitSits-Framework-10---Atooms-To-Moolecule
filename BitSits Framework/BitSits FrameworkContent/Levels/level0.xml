@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelData">
+    <!--Tutorial-->
+    <MaxAtoms>0</MaxAtoms>
+
+    <AtomProbability>0 0 0 0 0 100</AtomProbability>
+
+    <Entry>500 -200</Entry>
+
+    <BonusType>None</BonusType>
+
+    <ContinuousBoundry>
+      0 -600
+      741 -600
+      741 529
+      351 529
+      351 584
+      0 584
+      0 -600
+    </ContinuousBoundry>
+
+    <EquipmentDetails>
+      <Item>
+        <EquipmentName>funnel</EquipmentName>
+        <Position>474 123</Position>
+        <RotationInDeg>0</RotationInDeg>
+        <IsClamped>true</IsClamped>
+      </Item>
+      <Item>
+        <EquipmentName>testTube</EquipmentName>
+        <Position>474 -250</Position>
+        <RotationInDeg>170</RotationInDeg>
+        <IsClamped>false</IsClamped>
+      </Item>
+    </EquipmentDetails>
+  </Asset>
+</XnaContent>
