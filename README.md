@@ -5,7 +5,7 @@ Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see ho
 
 Download Setup
 ---
-[Atooms to Moolecules 2.0.zip (7.82 MB Setup)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Atooms%20to%20Moolecules.zip)
+[Atooms to Moolecules 2.0.zip (7.75 MB)](https://github.com/BitSits/Atooms-to-Moolecules/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules.zip)
 
 
 Instructions
