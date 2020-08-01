@@ -27,7 +27,7 @@ Screenshots
 
 Download Setup
 ---
-[Atooms to Moolecules 2.0.zip][zip] (7.82 MB Setup)
+[Atooms to Moolecules.zip][zip] (7.82 MB Setup)
 
 
 Instructions
@@ -91,7 +91,7 @@ Atooms to Moolecules in Marketplace
 ===
 
 Finally got Atooms to Moolecules published.
-Link to updated PC build [Atooms to Moolecules 2.0.zip][zip] (7.82 MB Setup)
+Link to updated PC build [Atooms to Moolecules.zip][zip] (7.82 MB Setup)
 
 Deep link: http://www.windowsphone.com/en-US/apps/40dd71d3-fb57-4afb-9d44-95b24d57024d
 
