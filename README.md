@@ -1,5 +1,19 @@
 ![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20PC%20Large.png)
 
+Atooms to Moolecules NEW Trailer
+===
+I have uploaded a new trailer of the game Atooms to Moolecules. 
+
+[![](https://github.com/Bitsits/Atooms-to-Moolecules-WP7-video/raw/master/W63ukWu7KMIOXSdQcT.gif)][video]
+
+[YouTube][video]
+[via GIPHY](https://giphy.com/gifs/W63ukWu7KMIOXSdQcT)
+
+[video]: https://youtu.be/Ddb_WVZlkZE
+
+[Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule-new-trailer.html)
+[Tumblr](https://bitsits.tumblr.com/post/96208545280/atooms-to-moolecules-new-trailer)
+
 Atooms to Moolecules
 ===
 Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see how Atooms changes into Moolecules.
@@ -13,7 +27,7 @@ Screenshots
 
 Download Setup
 ---
-[Atooms to Moolecules 2.0.zip][zip] (7.75 MB)
+[Atooms to Moolecules 2.0.zip][zip] (7.82 MB Setup)
 
 
 Instructions
@@ -70,8 +84,8 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 [zip]: https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules.zip
 
-[Blogger](http://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
-[Tumblr](https://bitsits.tumblr.com/post/96200793650/atooms-to-moolecules-trailer-here-is-the-trailer)
+[Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
+[Tumblr](https://bitsits.tumblr.com/post/96208273420/atooms-to-moolecules-atooms-to-moolecules-is-a)
 
 Atooms to Moolecules in Marketplace
 ===
@@ -95,3 +109,15 @@ Screenshots
 
 [Blogger](https://bitsits.blogspot.com/2011/10/atooms-to-moolecule-in-marketplace.html)
 [Tumblr](https://bitsits.tumblr.com/post/96212942240/atooms-to-moolecules-in-marketplace-finally-got)
+
+Atooms to Moolecules on Steam
+===
+Atooms to Moolecules is now on Steam. The wining game demos are now available at [Steam store].
+Link to Steam: http://store.steampowered.com/app/213390/
+
+![](https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Blog/steam%20store.png)
+
+[Steam store]: http://store.steampowered.com/sale/levelup
+
+[Blogger](https://bitsits.blogspot.com/2012/06/atooms-to-moolecules-on-steam.html)
+[Tumblr](https://bitsits.tumblr.com/post/96214659930/atooms-to-moolecules-on-steam-atooms-to)
