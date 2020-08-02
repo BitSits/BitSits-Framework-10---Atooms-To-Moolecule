@@ -20,10 +20,15 @@ Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see ho
 
 Screenshots
 ---
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules1.PNG)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules2.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules3.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules4.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%201.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%202.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%203.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%204.png)
+
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%205.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%206.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%207.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%208.png)
 
 Download Setup
 ---
@@ -31,7 +36,7 @@ Download Setup
 
 Instructions
 ---
-Drag and drop using <kbd>HOLD</kbd> <kbd>SWIPE</kbd> to connect the atomic creatures and <kbd><DOUBLE TAP</kbd> mouse button to detach it from the molecule. Make bigger and bigger molecule.
+Drag and drop using <kbd>HOLD</kbd> <kbd>SWIPE</kbd> to connect the atomic creatures and <kbd>DOUBLE TAP</kbd> mouse button to detach it from the molecule. Make bigger and bigger molecule.
 
 <kbd>DOUBLE TAP</kbd> click on any atom will break all its bonds.
 
@@ -89,18 +94,6 @@ Finally got Atooms to Moolecules published.
 Link to updated PC build [Atooms to Moolecules.zip][zip] (7.82 MB Setup)
 
 Deep link: http://www.windowsphone.com/en-US/apps/40dd71d3-fb57-4afb-9d44-95b24d57024d
-
-Screenshots
----
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%201.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%202.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%203.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%204.png)
-
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%205.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%206.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%207.png)
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%208.png)
 
 [Blogger](https://bitsits.blogspot.com/2011/10/atooms-to-moolecule-in-marketplace.html)
 [Tumblr](https://bitsits.tumblr.com/post/96212942240/atooms-to-moolecules-in-marketplace-finally-got)
