@@ -1,6 +1,6 @@
 ![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Mobile%20Small.png)
 
-NEW Trailer
+Windows Phone 7 Trailer
 ===
 I have uploaded a new trailer of the game Atooms to Moolecules. 
 
