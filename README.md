@@ -57,7 +57,7 @@ Credits
 
 License
 ---
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/cc.PNG)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
