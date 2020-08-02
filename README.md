@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20PC%20Large.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Mobile%20Small.png)
 
 Atooms to Moolecules NEW Trailer
 ===
@@ -20,29 +20,26 @@ Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see ho
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules1.PNG)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules2.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules3.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/Atooms%20to%20Moolecules4.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules1.PNG)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules2.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules3.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/Atooms%20to%20Moolecules4.png)
 
 Download Setup
 ---
 [Atooms to Moolecules.zip][zip] (7.82 MB Setup)
 
-
 Instructions
 ---
-Drag and drop using LEFT mouse button to connect the atomic creatures and RIGHT mouse button to detach it from the molecule. Make bigger and bigger molecule.
+Drag and drop using <kbd>HOLD</kbd> <kbd>SWIPE</kbd> to connect the atomic creatures and <kbd><DOUBLE TAP</kbd> mouse button to detach it from the molecule. Make bigger and bigger molecule.
 
-RIGHT click on any atom will break all its bonds.
+<kbd>DOUBLE TAP</kbd> click on any atom will break all its bonds.
 
-Esc to pause the game.
-
+<kbd>Back</kbd> to pause the game.
 
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
-
 
 Credits
 ---
@@ -58,10 +55,9 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Blog/cc.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/cc.PNG)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -89,7 +85,6 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 
 Atooms to Moolecules in Marketplace
 ===
-
 Finally got Atooms to Moolecules published.
 Link to updated PC build [Atooms to Moolecules.zip][zip] (7.82 MB Setup)
 
@@ -97,15 +92,15 @@ Deep link: http://www.windowsphone.com/en-US/apps/40dd71d3-fb57-4afb-9d44-95b24d
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%203.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%204.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%201.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%202.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%203.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%204.png)
 
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%205.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%206.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%207.png)
-![](https://raw.githubusercontent.com/Bitsits/Atooms-to-Moolecules/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%208.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%205.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%206.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%207.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Screenshot%208.png)
 
 [Blogger](https://bitsits.blogspot.com/2011/10/atooms-to-moolecule-in-marketplace.html)
 [Tumblr](https://bitsits.tumblr.com/post/96212942240/atooms-to-moolecules-in-marketplace-finally-got)
@@ -115,7 +110,7 @@ Atooms to Moolecules on Steam
 Atooms to Moolecules is now on Steam. The wining game demos are now available at [Steam store].
 Link to Steam: http://store.steampowered.com/app/213390/
 
-![](https://github.com/Bitsits/Atooms-to-Moolecules/raw/master/Blog/steam%20store.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/steam%20store.png)
 
 [Steam store]: http://store.steampowered.com/sale/levelup
 
