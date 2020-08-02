@@ -1,6 +1,6 @@
 ![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Windows%20Phone%20App/Atooms%20to%20Moolecules%20Mobile%20Small.png)
 
-Atooms to Moolecules NEW Trailer
+NEW Trailer
 ===
 I have uploaded a new trailer of the game Atooms to Moolecules. 
 
@@ -88,7 +88,7 @@ This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-N
 [Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html)
 [Tumblr](https://bitsits.tumblr.com/post/96208273420/atooms-to-moolecules-atooms-to-moolecules-is-a)
 
-Atooms to Moolecules in Marketplace
+Marketplace
 ===
 Finally got Atooms to Moolecules published.
 Link to updated PC build [Atooms to Moolecules.zip][zip] (7.82 MB Setup)
@@ -98,7 +98,7 @@ Deep link: http://www.windowsphone.com/en-US/apps/40dd71d3-fb57-4afb-9d44-95b24d
 [Blogger](https://bitsits.blogspot.com/2011/10/atooms-to-moolecule-in-marketplace.html)
 [Tumblr](https://bitsits.tumblr.com/post/96212942240/atooms-to-moolecules-in-marketplace-finally-got)
 
-Atooms to Moolecules on Steam
+Steam
 ===
 Atooms to Moolecules is now on Steam. The wining game demos are now available at [Steam store].
 Link to Steam: http://store.steampowered.com/app/213390/
