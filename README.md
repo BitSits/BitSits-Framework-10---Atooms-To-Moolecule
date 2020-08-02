@@ -14,7 +14,7 @@ I have uploaded a new trailer of the game Atooms to Moolecules.
 [Blogger](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule-new-trailer.html)
 [Tumblr](https://bitsits.tumblr.com/post/96208545280/atooms-to-moolecules-new-trailer)
 
-Atooms to Moolecules
+Atooms to Moolecules WP7
 ===
 Atooms to Moolecules is a chemistry based puzzle game. Explore the lab to see how Atooms changes into Moolecules.
 
@@ -65,7 +65,6 @@ License
 ![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 [.NET Framework 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=17718
 [XNA Framework Redistributable 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=20914
