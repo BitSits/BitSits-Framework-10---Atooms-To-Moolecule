@@ -4,10 +4,10 @@ Windows Phone 7 Trailer
 ===
 I have uploaded a new trailer of the game Atooms to Moolecules. 
 
-[![](https://github.com/Bitsits/Atooms-to-Moolecules-WP7-video/raw/master/W63ukWu7KMIOXSdQcT.gif)][video]
+[![](https://github.com/Bitsits/Atooms-to-Moolecules-WP7-video/raw/master/QXOK16yH3IhHRieQQK.gif)][video]
 
 [YouTube][video]
-[via GIPHY](https://giphy.com/gifs/W63ukWu7KMIOXSdQcT)
+[via GIPHY](https://giphy.com/gifs/QXOK16yH3IhHRieQQK)
 
 [video]: https://youtu.be/Ddb_WVZlkZE
 
@@ -96,6 +96,20 @@ Deep link: http://www.windowsphone.com/en-US/apps/40dd71d3-fb57-4afb-9d44-95b24d
 
 [Blogger](https://bitsits.blogspot.com/2011/10/atooms-to-moolecule-in-marketplace.html)
 [Tumblr](https://bitsits.tumblr.com/post/96212942240/atooms-to-moolecules-in-marketplace-finally-got)
+
+Intel Level Up 2011
+===
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/steam%20store.png)
+
+[Atooms to Moolecules](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html) won Intel [Level Up 2011] in Educational Category. The game is going to be on Steam and  E3 edition of [Video Games Live] . Its super awesome..
+
+Link to mini-press release: http://newsroom.intel.com/community/intel_newsroom/blog/2012/06/07/chip-shot-intel-level-up-recognizes-promising-game-demos
+
+[Level Up 2011]: http://software.intel.com/sites/campaigns/levelup2011/
+[Video Games Live]: http://videogameslive.com/
+
+[Blogger](https://www.bitsits.games/2012/06/intel-level-up-2011.html)
+[Tumblr](https://bitsits.tumblr.com/post/96214543515/intel-level-up-2011-atooms-to-moolecules-won)
 
 Steam
 ===
