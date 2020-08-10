@@ -108,7 +108,7 @@ Link to mini-press release: http://newsroom.intel.com/community/intel_newsroom/b
 [Level Up 2011]: http://software.intel.com/sites/campaigns/levelup2011/
 [Video Games Live]: http://videogameslive.com/
 
-[Blogger](https://www.bitsits.games/2012/06/intel-level-up-2011.html)
+[Blogger](https://bitsits.blogspot.com/2012/06/intel-level-up-2011.html)
 [Tumblr](https://bitsits.tumblr.com/post/96214543515/intel-level-up-2011-atooms-to-moolecules-won)
 
 Steam
