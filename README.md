@@ -99,7 +99,7 @@ Deep link: http://www.windowsphone.com/en-US/apps/40dd71d3-fb57-4afb-9d44-95b24d
 
 Intel Level Up 2011
 ===
-![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/steam%20store.png)
+![](https://github.com/Bitsits/Atooms-to-Moolecules-Assets/raw/master/Blog/intel%20home.png)
 
 [Atooms to Moolecules](https://bitsits.blogspot.com/2011/02/atooms-to-moolecule.html) won Intel [Level Up 2011] in Educational Category. The game is going to be on Steam and  E3 edition of [Video Games Live] . Its super awesome..
 
